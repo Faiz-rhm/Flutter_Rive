@@ -1,5 +1,18 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_rive_tab/light_switch.dart';
+import 'package:flutter_rive_tab/play_one_shot_animation.dart';
+
+//
+//
+// ContentView.Flutter
+// Spotify
+//
+// Flutter Rive
+//
+// Created by: Faiz Rhm
+
+// Mark: Github
+// Faiz Rhm
+// https://github.com/Faiz-rhm
 
 
 void main() {
@@ -17,7 +30,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: const LightSwitch()
+      home: const PlayOneShotAnimation()
     );
   }
 }
