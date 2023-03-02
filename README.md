@@ -15,9 +15,9 @@ flutter run
 
 ## Screen Shots
 
-|   Light Swtich    |        Comming Soon              |
+|   Light Switch    |        OneShotAnimation           |
 |----------------|-------------------------------|
-|  ![Screen Recording 2023-03-02 at 3 12 27 PM](https://user-images.githubusercontent.com/14290499/222408431-6d75b00c-ab68-4daf-9d46-23b1d9566c27.gif) |  |
+|  ![Screen Recording 2023-03-02 at 3 12 27 PM](https://user-images.githubusercontent.com/14290499/222408431-6d75b00c-ab68-4daf-9d46-23b1d9566c27.gif) | ![Screen Recording 2023-03-02 at 3 36 25 PM](https://user-images.githubusercontent.com/14290499/222412090-fceb787a-ae3f-46ea-b3ce-1da919257007.gif) |
 
 
 ## Getting Started
