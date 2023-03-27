@@ -1,6 +1,6 @@
-# Lottie Animation 
+# Flutter Rive 
 
-This project will showcase a list of interactive animations for apps, games, and website using [Lotti](https://pub.dev/packages/lottie), is a mobile library for Android and iOS that parses Adobe After Effects animations
+This project will showcase a list of interactive animations for apps, games, and website using [Riv](https://pub.dev/packages/rive), is a runtime library for Rive, a real-time interactive design and animation tool.
 
 ## Development Setup
 
